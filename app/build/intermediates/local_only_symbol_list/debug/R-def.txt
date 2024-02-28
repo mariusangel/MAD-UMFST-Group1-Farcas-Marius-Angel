@@ -1,0 +1,19 @@
+R_DEF: Internal format may change without notice
+local
+color light_green
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id button
+id button2
+id textView
+layout activity_main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+string counter_button_text
+string hello_world
+string toast_button_text
+style Base.Theme.Lab2
+style Theme.Lab2
+xml backup_rules
+xml data_extraction_rules
